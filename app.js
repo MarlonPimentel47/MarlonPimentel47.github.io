@@ -1,4 +1,4 @@
-var bgImageArray = ["./images/2aa.JPG", "./images/3aa.JPG", "./images/4aa.JPG", "./images/5aa.JPG"],
+var bgImageArray = ["https://github.com/MarlonPimentel47/MarlonPimentel47.github.io/blob/master/images/2aa.jpg", "https://github.com/MarlonPimentel47/MarlonPimentel47.github.io/blob/master/images/3aa.jpg", "https://github.com/MarlonPimentel47/MarlonPimentel47.github.io/blob/master/images/2aa.jpg", "https://github.com/MarlonPimentel47/MarlonPimentel47.github.io/blob/master/images/2aa.jpg"],
 secs = 4;
 
 bgImageArray.forEach(function(img){
