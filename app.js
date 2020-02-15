@@ -1,4 +1,4 @@
-var bgImageArray = ["images/2aa.JPG", "images/3aa.JPG", "images/4aa.JPG", "images/5aa.JPG"],
+var bgImageArray = ["./images/2aa.JPG", "./images/3aa.JPG", "./images/4aa.JPG", "./images/5aa.JPG"],
 secs = 4;
 
 bgImageArray.forEach(function(img){
