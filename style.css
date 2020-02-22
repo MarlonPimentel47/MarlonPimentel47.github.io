@@ -6,8 +6,6 @@ html {
     margin: 0;
     background-size: cover;
     background: url("./images/5aa.jpg") no-repeat center center fixed;
-    background-color: black;
-    background-blend-mode: darken;
 }
 
 body{
